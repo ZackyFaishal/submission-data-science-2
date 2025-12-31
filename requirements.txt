@@ -1,0 +1,8 @@
+joblib
+matplotlib
+pandas
+python-dotenv
+scikit_learn
+seaborn
+SQLAlchemy
+streamlit
